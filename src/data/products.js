@@ -1,10 +1,10 @@
-import chocolateBranco from '../assets/images/chocolate-branco.png';
+import chocolateBranco from '../assets/images/chocolate-branco.jpg';
 import chocolateBrancoAmendoim from '../assets/images/chocolate-branco-amendoim.jpeg';
 import chocolatePreto from '../assets/images/chocolate-preto.jpeg';
-import chocolatePretoAmendoim from '../assets/images/chocolate-preto-amendoim.png';
+import chocolatePretoAmendoim from '../assets/images/chocolate-preto-amendoim.jpg';
 import misto from '../assets/images/misto.jpeg';
 import recheadoBranco from '../assets/images/recheado-branco.jpeg';
-import recheadoPreto from '../assets/images/recheado-preto.png';
+import recheadoPreto from '../assets/images/recheado-preto.jpg';
 import recheadoMisto from '../assets/images/recheado-misto.jpeg';
 
 export const products=[
